@@ -11,7 +11,6 @@
     
     <ul>
         <li><a href="Leader.php">Home</a></li>
-        <li><a href="Leader.php">test</a></li>
         <li><a href="AddAnnotator.php">Add annotator</a></li>
         <li><a href="AssignTasks.php">Assign tasks</a></li>
         <li><a href="ReviewThetasks.php">Review the tasks</a></li>
